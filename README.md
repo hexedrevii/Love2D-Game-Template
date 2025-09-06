@@ -15,7 +15,7 @@ This template aims to help setup projects faster.
 - lib -> This is where external libraries should go (eg. cartographer.lua)
 - assets -> Where sprites, fonts, level data go.
 
-<br/>
+<br/> 
 
 - .editorconfig -> If you have the `Editor Config` extension enabled, you are able to control your code style! (Eg. using tabs instead of spaces, space width, etc.)
 
